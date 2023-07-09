@@ -1,4 +1,4 @@
-# Telebot
+# Telebot [中文](./README_zh.md)
 >"I never knew creating Telegram bots could be so _sexy_!"
 
 [![GoDoc](https://godoc.org/gopkg.in/telebot.v3?status.svg)](https://godoc.org/gopkg.in/telebot.v3)
